@@ -1,3 +1,4 @@
+## This Repository is Archived and the changes in this Repository have been ported to https://github.com/opscientia/Opsci-Verse
 # Example app with [chakra-ui](https://github.com/chakra-ui/chakra-ui) and TypeScript
 
 This example features how to use [chakra-ui](https://github.com/chakra-ui/chakra-ui) as the component library within a Next.js app with TypeScript.
